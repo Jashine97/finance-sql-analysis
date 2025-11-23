@@ -18,4 +18,4 @@ All analysis is done in PostgreSQL using pgAdmin.
 4. Which accounts and merchant categories are most affected by fraud?
 5. How do different customer segments (Mass, HNW, Student) behave?
 
-See [`sql/finance_analytics.sql`](sql/finance_analytics.sql) for all queries.
+
